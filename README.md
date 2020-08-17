@@ -19,6 +19,8 @@
 
 ###### Languages
 ![Python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python)
+![C++](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B)
+![
 
 ### List of things I have worked with
 
