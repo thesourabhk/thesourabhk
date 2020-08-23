@@ -1,4 +1,4 @@
-# Hey there<img src="https://raw.githubusercontent.com/arnoob16/arnoob16/master/wave.gif" width="30px"><br>I am Sourabh Kumar.
+# Hey there<img src="https://raw.githubusercontent.com/arnoob16/arnoob16/master/wave.gif" width="30px"><br>I am Sourabh Kumar -aka [Dark_patrix][website].
 
 ### I am a second year NIE, mysore IS student
 
@@ -7,23 +7,24 @@
 <!--
 **sourabhk267/sourabhk267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-- ⚡ Fun fact: I love playing football and playing drums 🥁
+- 🔭 I’m currently working on a [VS Code Course][website]!
+- 👯 I’m looking to collaborate with other Search Results Penetration Testing groups
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact I love playing football and playing drums 🥁
 
 #### 📫 How to reach me: ...
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.comSourabh_k_d)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/sourabh._d/)
-[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:sourabhd267@gmail.com)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twiter]
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">][instagram]
+[<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">][email]
 
-#### 🔭 I’m currently learning on ...
 
 [](https://tryhackme.com/p/Darkpatrix)
 
 ## Tech Specs
 
-###### Languages
+##### Languages & Tools 
 
 ![Python](https://img.shields.io/badge/-python-black?style=flat-square&logo=python)
 ![C++](https://img.shields.io/badge/-c++-black?style=flat-square&logo=c++)
@@ -39,7 +40,6 @@
 
 ##### Linux Tools
 
-#### 👯 I’m looking to collaborate on ...
 
 #### 💬 Ask me about ...
 
@@ -51,5 +51,12 @@
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=thesourabhk&show_icons=true&hide_border=true&line_height=40&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesourabhk">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesourabhk&show_icons=true&hide_border=true">
 </p>
+
+
+[website]: https://thesourabhk.github.io/sourabhk267.github.io/
+[twiter]: https://twitter.comSourabh_k_d
+[linkedin]: https://www.linkedin.com/in/sourabh-kumar-44072bba/
+[instagram]: https://www.instagram.com/sourabh._d/
+[email]: mailto:sourabhd267@gmail.com
