@@ -7,7 +7,7 @@
 <!--
 **sourabhk267/sourabhk267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- 🔭 I’m currently working on a Keylogger Projects
 - 👯 I’m looking to collaborate with other Search Results Penetration Testing groups
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact I love playing football and playing drums 🥁
@@ -47,13 +47,15 @@
 - Linux Advantages..
 - Security threats...
 
-### Some of my GitHub Stats
+### ⚡ GitHub Stats
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=thesourabhk&show_icons=true&hide_border=true&line_height=40&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesourabhk&show_icons=true&hide_border=true">
-</p>
+<details>
+  <summary>:zap: Github Stats</summary>
 
+  <img align="left" alt="Sourabh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thesourabhk&show_icons=true&hide_border=true&count_private=true" />
+  <img align="right" alt="Sourabh's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesourabhk&show_icons=true&hide_border=true">
+
+</details>
 
 [website]: https://thesourabhk.github.io/sourabhk267.github.io/
 [twiter]: https://twitter.comSourabh_k_d
