@@ -47,7 +47,6 @@
 - Linux Advantages..
 - Security threats...
 
-### ⚡ GitHub Stats
 
 <details>
   <summary>:zap: Github Stats</summary>
