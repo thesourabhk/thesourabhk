@@ -65,7 +65,7 @@
 </details>
 
 [website]: https://thesourabhk.github.io/sourabhk267.github.io/
-[twiter]: https://twitter.comSourabh_k_d
+[twiter]: https://twitter.com/Sourabh_k_d
 [linkedin]: https://www.linkedin.com/in/sourabh-kumar-44072bba/
 [instagram]: https://www.instagram.com/sourabh._d/
 [email]: mailto:sourabhd267@gmail.com
