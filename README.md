@@ -14,11 +14,6 @@
 <!--
 **sourabhk267/sourabhk267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Things to do 
-- 🔭 I’m currently working on a Keylogger Projects
-- 👯 I’m looking to collaborate with other Search Results Penetration Testing groups
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact I love playing football and playing drums 🥁
 
 #### 📫 How to reach me: ...
 
