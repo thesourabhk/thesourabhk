@@ -3,8 +3,8 @@
 
 <p>
   <em>
-    I am a 3rd Year undergraduate from <a href="https://nie.ac.in/"> <b>National Institute of Engineering</b>, Mysore</a>. <br>
-    A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Cyber Security Enthusiast,Bug Bounty Hunter</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>who is <b>obsessed</b>
+    I am a undergraduate from <a href="https://nie.ac.in/"> <b>National Institute of Engineering</b>, Mysore</a>. <br>
+    A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Algorithic traging Enthusiast,book worm</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>who is <b>obsessed</b>
     with the idea of <b>improving</b> myself and wants a <b>platform</b> to 
     <b>grow</b> and 
     <b>excel.</b> 
